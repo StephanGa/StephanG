@@ -7,7 +7,7 @@
     Output from this cmdlet (if any)
 .NOTES
     This script needs Global Admin rights and the newest Teams Powershell (2.6.1-preview+) Module
-    You will need to change 
+    You will need to change the function SupplierDependentSetting according to your provider
 #>
 
 
